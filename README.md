@@ -9,4 +9,4 @@ The program generates random stream counts for each song on platforms such as Ti
 
 The detailed breakdown includes total streams, earnings per platform, and average streams and earnings per platform.
 
-This project is just the begginign of my C++ journey thank you for stopping by!!!!!
+This project is just the beginning of my C++ journey thank you for stopping by!!!!!
