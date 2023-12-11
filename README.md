@@ -8,3 +8,5 @@ Artists can estimate potential earnings by inputting the type of music label (in
 The program generates random stream counts for each song on platforms such as Tidal, Amazon Music, Apple Music, Spotify, and YouTube. 
 
 The detailed breakdown includes total streams, earnings per platform, and average streams and earnings per platform.
+
+This project is just the begginign of my C++ journey thank you for stopping by!!!!!
